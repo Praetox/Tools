@@ -1,0 +1,113 @@
+[[INIT]]
+@namespace url(http://www.w3.org/1999/xhtml);
+[[/INIT]]
+
+[[APPN]]
+@-moz-document domain(zip.4chan.org),
+domain(img.4chan.org),
+domain(orz.4chan.org),
+domain(cgi.4chan.org) {
+
+   body[bgcolor] {
+      color: #ccc !important;
+      background-color: #333 !important;
+      background-image: url([[URL]]) !important;
+      background-position: bottom right !important;
+      background-repeat: no-repeat !important;
+      background-attachment: fixed !important;
+   }
+   body a {
+      color: #ca8 !important;
+   }
+   body hr {
+      height: 0px !important;
+      color: #8ac !important;
+   }
+   
+   
+   .postarea {
+      opacity: .9 !important;
+      color: #dde !important;
+   }
+   .postarea li {
+      display: none !important;
+   }
+   
+   
+   td.postblock {
+      opacity: .8 !important;
+      color: #dde !important;
+      background-color: #222 !important;
+      border: 1px solid !important;
+      border-color: #444 #000 #000 #444 !important;
+   }
+   td.inputtext {
+      background: #000 !important;
+   }
+   
+   
+   table.pages {
+      opacity: .8 !important;
+      color: #dde !important;
+      background-color: #222 !important;
+      border: 1px solid !important;
+      border-color: #444 #000 #000 #444 !important;
+   }
+   table.pages a {
+      color: #8ac !important;
+   }
+   
+   .filesize {
+      color: #ccc !important;
+   }
+   .omittedposts {
+      color: #ccc !important;
+   }
+   .commentpostername {
+      color: #8ac !important;
+   }
+   .quotejs {
+      color: #8ac !important;
+   }
+   .quotelink {
+      color: #6a9 !important;
+   }
+   
+   
+   blockquote {
+      color: #dde !important;
+      background-color: #222 !important;
+      border: 1px solid #333 !important;
+      margin-right: 2px !important;
+      padding: 16px !important;
+      border: 1px solid !important;
+      border-color: #444 #000 #000 #444 !important;
+   }
+
+   
+   .reply, .replyhl {
+      opacity: .9 !important;
+      color: #dde !important;
+      background-color: #222 !important;
+      border: 1px solid !important;
+      border-color: #444 #000 #000 #444 !important;
+      width: 100% !important;
+      -moz-border-radius-bottomleft:12px !important;
+      -moz-border-radius-topright:12px !important;
+   }
+   .reply blockquote {
+      border-width: 0px !important;
+      margin-left: 40px !important;
+      padding: 0px !important;
+   }
+   .replyhl blockquote {
+      background-color: #234 !important;
+   }
+   
+   img[md5] {
+      background-color: #000 !important;
+      padding: 4px !important;
+      border: 1px solid #333 !important;
+   }
+}
+[[/APPN]]

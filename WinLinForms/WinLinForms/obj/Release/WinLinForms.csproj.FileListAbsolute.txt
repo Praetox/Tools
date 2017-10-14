@@ -1,0 +1,10 @@
+F:\Visual Basic\SAUCE\PTSOURCE\Tools\WinLinForms\WinLinForms\bin\Release\WinLinForms.exe.config
+F:\Visual Basic\SAUCE\PTSOURCE\Tools\WinLinForms\WinLinForms\bin\Release\WinLinForms.exe
+F:\Visual Basic\SAUCE\PTSOURCE\Tools\WinLinForms\WinLinForms\bin\Release\WinLinForms.pdb
+F:\Visual Basic\SAUCE\PTSOURCE\Tools\WinLinForms\WinLinForms\obj\Release\ResolveAssemblyReference.cache
+F:\Visual Basic\SAUCE\PTSOURCE\Tools\WinLinForms\WinLinForms\obj\Release\WinLinForms.frmMain.resources
+F:\Visual Basic\SAUCE\PTSOURCE\Tools\WinLinForms\WinLinForms\obj\Release\WinLinForms.Properties.Resources.resources
+F:\Visual Basic\SAUCE\PTSOURCE\Tools\WinLinForms\WinLinForms\obj\Release\GenerateResource.read.1.tlog
+F:\Visual Basic\SAUCE\PTSOURCE\Tools\WinLinForms\WinLinForms\obj\Release\GenerateResource.write.1.tlog
+F:\Visual Basic\SAUCE\PTSOURCE\Tools\WinLinForms\WinLinForms\obj\Release\WinLinForms.exe
+F:\Visual Basic\SAUCE\PTSOURCE\Tools\WinLinForms\WinLinForms\obj\Release\WinLinForms.pdb

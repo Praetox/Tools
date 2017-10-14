@@ -1,0 +1,12 @@
+D:\Programfiler\Spotify\spotify.exe
+D:\Programfiler\Steam\steam.exe
+D:\Programfiler\iTunes\iTunes.exe
+D:\Programfiler\Eziriz\.NET Reactor\dotNET_Reactor.exe
+D:\Programfiler\uTorrent\uTorrent.exe
+D:\Programfiler\Opera\opera.exe
+D:\Programfiler\Winamp\winamp.exe
+D:\Programfiler\Xfire\xfire.exe
+C:\Programfiler\Mozilla Firefox\firefox.exe
+
+
+

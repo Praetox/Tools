@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="NowPlaying">
+</Property><Property Name="Solution File" Value="F:\Visual Basic\SAUCE\PTSOURCE\Tools\NowPlaying\NowPlaying.sln">
+</Property><Property Name="User Options File" Value="F:\Visual Basic\SAUCE\PTSOURCE\Tools\NowPlaying\NowPlaying.suo">
+</Property><Property Name="Date" Value="Wednesday, January 04, 2012">
+</Property><Property Name="Time" Value="19:48 PM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="NowPlaying.sln" Description="File successfully backed up as F:\Visual Basic\SAUCE\PTSOURCE\Tools\NowPlaying\Backup\NowPlaying.sln">
+</Event><Event ErrorLevel="0" Project="" Source="NowPlaying.suo" Description="File successfully backed up as F:\Visual Basic\SAUCE\PTSOURCE\Tools\NowPlaying\Backup\NowPlaying.suo">
+</Event><Event ErrorLevel="0" Project="NowPlaying" Source="NowPlaying\NowPlaying.csproj" Description="Project file successfully backed up as F:\Visual Basic\SAUCE\PTSOURCE\Tools\NowPlaying\Backup\NowPlaying\NowPlaying.csproj">
+</Event><Event ErrorLevel="0" Project="NowPlaying" Source="NowPlaying\NowPlaying.csproj.user" Description="Project user file successfully backed up as F:\Visual Basic\SAUCE\PTSOURCE\Tools\NowPlaying\Backup\NowPlaying\NowPlaying.csproj.user">
+</Event><Event ErrorLevel="0" Project="NowPlaying" Source="NowPlaying\BigInt.cs" Description="File successfully backed up as F:\Visual Basic\SAUCE\PTSOURCE\Tools\NowPlaying\Backup\NowPlaying\BigInt.cs">
+</Event><Event ErrorLevel="0" Project="NowPlaying" Source="NowPlaying\frmMain.cs" Description="File successfully backed up as F:\Visual Basic\SAUCE\PTSOURCE\Tools\NowPlaying\Backup\NowPlaying\frmMain.cs">
+</Event><Event ErrorLevel="0" Project="NowPlaying" Source="NowPlaying\frmMain.Designer.cs" Description="File successfully backed up as F:\Visual Basic\SAUCE\PTSOURCE\Tools\NowPlaying\Backup\NowPlaying\frmMain.Designer.cs">
+</Event><Event ErrorLevel="0" Project="NowPlaying" Source="NowPlaying\frmSelectAccount.cs" Description="File successfully backed up as F:\Visual Basic\SAUCE\PTSOURCE\Tools\NowPlaying\Backup\NowPlaying\frmSelectAccount.cs">
+</Event><Event ErrorLevel="0" Project="NowPlaying" Source="NowPlaying\frmSelectAccount.Designer.cs" Description="File successfully backed up as F:\Visual Basic\SAUCE\PTSOURCE\Tools\NowPlaying\Backup\NowPlaying\frmSelectAccount.Designer.cs">
+</Event><Event ErrorLevel="0" Project="NowPlaying" Source="NowPlaying\frmFindOffsets.cs" Description="File successfully backed up as F:\Visual Basic\SAUCE\PTSOURCE\Tools\NowPlaying\Backup\NowPlaying\frmFindOffsets.cs">
+</Event><Event ErrorLevel="0" Project="NowPlaying" Source="NowPlaying\frmFindOffsets.Designer.cs" Description="File successfully backed up as F:\Visual Basic\SAUCE\PTSOURCE\Tools\NowPlaying\Backup\NowPlaying\frmFindOffsets.Designer.cs">
+</Event><Event ErrorLevel="0" Project="NowPlaying" Source="NowPlaying\frmSelectOffsets.cs" Description="File successfully backed up as F:\Visual Basic\SAUCE\PTSOURCE\Tools\NowPlaying\Backup\NowPlaying\frmSelectOffsets.cs">
+</Event><Event ErrorLevel="0" Project="NowPlaying" Source="NowPlaying\frmSelectOffsets.Designer.cs" Description="File successfully backed up as F:\Visual Basic\SAUCE\PTSOURCE\Tools\NowPlaying\Backup\NowPlaying\frmSelectOffsets.Designer.cs">
+</Event><Event ErrorLevel="0" Project="NowPlaying" Source="NowPlaying\frmSelectPlayer.cs" Description="File successfully backed up as F:\Visual Basic\SAUCE\PTSOURCE\Tools\NowPlaying\Backup\NowPlaying\frmSelectPlayer.cs">
+</Event><Event ErrorLevel="0" Project="NowPlaying" Source="NowPlaying\frmSelectPlayer.Designer.cs" Description="File successfully backed up as F:\Visual Basic\SAUCE\PTSOURCE\Tools\NowPlaying\Backup\NowPlaying\frmSelectPlayer.Designer.cs">
+</Event><Event ErrorLevel="0" Project="NowPlaying" Source="NowPlaying\Program.cs" Description="File successfully backed up as F:\Visual Basic\SAUCE\PTSOURCE\Tools\NowPlaying\Backup\NowPlaying\Program.cs">
+</Event><Event ErrorLevel="0" Project="NowPlaying" Source="NowPlaying\Properties\AssemblyInfo.cs" Description="File successfully backed up as F:\Visual Basic\SAUCE\PTSOURCE\Tools\NowPlaying\Backup\NowPlaying\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="NowPlaying" Source="NowPlaying\Properties\Resources.Designer.cs" Description="File successfully backed up as F:\Visual Basic\SAUCE\PTSOURCE\Tools\NowPlaying\Backup\NowPlaying\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="NowPlaying" Source="NowPlaying\Properties\Settings.Designer.cs" Description="File successfully backed up as F:\Visual Basic\SAUCE\PTSOURCE\Tools\NowPlaying\Backup\NowPlaying\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="NowPlaying" Source="NowPlaying\WebReq.cs" Description="File successfully backed up as F:\Visual Basic\SAUCE\PTSOURCE\Tools\NowPlaying\Backup\NowPlaying\WebReq.cs">
+</Event><Event ErrorLevel="0" Project="NowPlaying" Source="NowPlaying\app.config" Description="File successfully backed up as F:\Visual Basic\SAUCE\PTSOURCE\Tools\NowPlaying\Backup\NowPlaying\app.config">
+</Event><Event ErrorLevel="0" Project="NowPlaying" Source="NowPlaying\Properties\Settings.settings" Description="File successfully backed up as F:\Visual Basic\SAUCE\PTSOURCE\Tools\NowPlaying\Backup\NowPlaying\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="NowPlaying" Source="NowPlaying\Sennheiser.ico" Description="File successfully backed up as F:\Visual Basic\SAUCE\PTSOURCE\Tools\NowPlaying\Backup\NowPlaying\Sennheiser.ico">
+</Event><Event ErrorLevel="0" Project="NowPlaying" Source="NowPlaying\frmMain.resx" Description="File successfully backed up as F:\Visual Basic\SAUCE\PTSOURCE\Tools\NowPlaying\Backup\NowPlaying\frmMain.resx">
+</Event><Event ErrorLevel="0" Project="NowPlaying" Source="NowPlaying\frmSelectAccount.resx" Description="File successfully backed up as F:\Visual Basic\SAUCE\PTSOURCE\Tools\NowPlaying\Backup\NowPlaying\frmSelectAccount.resx">
+</Event><Event ErrorLevel="0" Project="NowPlaying" Source="NowPlaying\frmFindOffsets.resx" Description="File successfully backed up as F:\Visual Basic\SAUCE\PTSOURCE\Tools\NowPlaying\Backup\NowPlaying\frmFindOffsets.resx">
+</Event><Event ErrorLevel="0" Project="NowPlaying" Source="NowPlaying\frmSelectOffsets.resx" Description="File successfully backed up as F:\Visual Basic\SAUCE\PTSOURCE\Tools\NowPlaying\Backup\NowPlaying\frmSelectOffsets.resx">
+</Event><Event ErrorLevel="0" Project="NowPlaying" Source="NowPlaying\frmSelectPlayer.resx" Description="File successfully backed up as F:\Visual Basic\SAUCE\PTSOURCE\Tools\NowPlaying\Backup\NowPlaying\frmSelectPlayer.resx">
+</Event><Event ErrorLevel="0" Project="NowPlaying" Source="NowPlaying\Properties\Resources.resx" Description="File successfully backed up as F:\Visual Basic\SAUCE\PTSOURCE\Tools\NowPlaying\Backup\NowPlaying\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="NowPlaying" Source="NowPlaying\Resources\Sennheiser_1.ico" Description="File successfully backed up as F:\Visual Basic\SAUCE\PTSOURCE\Tools\NowPlaying\Backup\NowPlaying\Resources\Sennheiser_1.ico">
+</Event><Event ErrorLevel="0" Project="NowPlaying" Source="NowPlaying\Resources\Sennheiser_2.ico" Description="File successfully backed up as F:\Visual Basic\SAUCE\PTSOURCE\Tools\NowPlaying\Backup\NowPlaying\Resources\Sennheiser_2.ico">
+</Event><Event ErrorLevel="0" Project="NowPlaying" Source="NowPlaying\Resources\Sennheiser_3.ico" Description="File successfully backed up as F:\Visual Basic\SAUCE\PTSOURCE\Tools\NowPlaying\Backup\NowPlaying\Resources\Sennheiser_3.ico">
+</Event><Event ErrorLevel="0" Project="NowPlaying" Source="NowPlaying\NowPlaying.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="NowPlaying" Source="NowPlaying\NowPlaying.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="NowPlaying.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="NowPlaying.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="NowPlaying" Source="NowPlaying\app.config" Description="File converted successfully. All &lt;supportedRuntime&gt; and &lt;requiredRuntime&gt; tags were removed to enable the project to build and run with Visual Studio 2005.">
+</Event><Event ErrorLevel="3" Project="NowPlaying" Source="NowPlaying\app.config" Description="Converted">
+</Event></UpgradeLog>

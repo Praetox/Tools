@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="unDupe">
+</Property><Property Name="Solution File" Value="G:\SAUCE\PTSOURCE\Tools\unDupe\unDupe.sln">
+</Property><Property Name="User Options File" Value="G:\SAUCE\PTSOURCE\Tools\unDupe\unDupe.suo">
+</Property><Property Name="Date" Value="22. februar 2011">
+</Property><Property Name="Time" Value="17:44">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="unDupe.sln" Description="File successfully backed up as G:\SAUCE\PTSOURCE\Tools\unDupe\Backup\unDupe.sln">
+</Event><Event ErrorLevel="0" Project="" Source="unDupe.suo" Description="File successfully backed up as G:\SAUCE\PTSOURCE\Tools\unDupe\Backup\unDupe.suo">
+</Event><Event ErrorLevel="0" Project="unDupe" Source="unDupe\unDupe.csproj" Description="Project file successfully backed up as G:\SAUCE\PTSOURCE\Tools\unDupe\Backup\unDupe\unDupe.csproj">
+</Event><Event ErrorLevel="0" Project="unDupe" Source="unDupe\unDupe.csproj.user" Description="Project user file successfully backed up as G:\SAUCE\PTSOURCE\Tools\unDupe\Backup\unDupe\unDupe.csproj.user">
+</Event><Event ErrorLevel="0" Project="unDupe" Source="unDupe\frmMain.cs" Description="File successfully backed up as G:\SAUCE\PTSOURCE\Tools\unDupe\Backup\unDupe\frmMain.cs">
+</Event><Event ErrorLevel="0" Project="unDupe" Source="unDupe\frmMain.Designer.cs" Description="File successfully backed up as G:\SAUCE\PTSOURCE\Tools\unDupe\Backup\unDupe\frmMain.Designer.cs">
+</Event><Event ErrorLevel="0" Project="unDupe" Source="unDupe\Program.cs" Description="File successfully backed up as G:\SAUCE\PTSOURCE\Tools\unDupe\Backup\unDupe\Program.cs">
+</Event><Event ErrorLevel="0" Project="unDupe" Source="unDupe\Properties\AssemblyInfo.cs" Description="File successfully backed up as G:\SAUCE\PTSOURCE\Tools\unDupe\Backup\unDupe\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="unDupe" Source="unDupe\Properties\Resources.Designer.cs" Description="File successfully backed up as G:\SAUCE\PTSOURCE\Tools\unDupe\Backup\unDupe\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="unDupe" Source="unDupe\Properties\Settings.Designer.cs" Description="File successfully backed up as G:\SAUCE\PTSOURCE\Tools\unDupe\Backup\unDupe\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="unDupe" Source="unDupe\app.config" Description="File successfully backed up as G:\SAUCE\PTSOURCE\Tools\unDupe\Backup\unDupe\app.config">
+</Event><Event ErrorLevel="0" Project="unDupe" Source="unDupe\Properties\Settings.settings" Description="File successfully backed up as G:\SAUCE\PTSOURCE\Tools\unDupe\Backup\unDupe\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="unDupe" Source="unDupe\frmMain.resx" Description="File successfully backed up as G:\SAUCE\PTSOURCE\Tools\unDupe\Backup\unDupe\frmMain.resx">
+</Event><Event ErrorLevel="0" Project="unDupe" Source="unDupe\Properties\Resources.resx" Description="File successfully backed up as G:\SAUCE\PTSOURCE\Tools\unDupe\Backup\unDupe\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="unDupe" Source="unDupe\unDupe.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="unDupe" Source="unDupe\unDupe.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="unDupe.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="unDupe.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="unDupe" Source="unDupe\app.config" Description="File converted successfully. All &lt;supportedRuntime&gt; and &lt;requiredRuntime&gt; tags were removed to enable the project to build and run with Visual Studio 2005.">
+</Event><Event ErrorLevel="3" Project="unDupe" Source="unDupe\app.config" Description="Converted">
+</Event></UpgradeLog>

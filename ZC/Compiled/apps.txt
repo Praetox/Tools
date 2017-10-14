@@ -1,0 +1,6 @@
+Pidgin&%C:\Programfiler\Pidgin\Pidgin.exe&%MSN Messenger, just better.
+Azureus&%C:\Programfiler\Azureus\Azureus.exe&%KING OF BLOATED CLIENTS, DO YOU HAVE ENOUGH OPTIONS?
+Opera&%C:\Programfiler\Opera\Opera.exe&%Web browser, you say? Use this!
+WMM&%C:\Programfiler\Movie Maker\moviemk.exe&%Make movies in the most irritating way ever.
+WMP&%C:\Programfiler\Windows Media Player\wmplayer.exe&%Listen to music - simplicity in itself.
+Visual C#&%C:\Programfiler\Microsoft Visual Studio 9.0\Common7\IDE\VCSExpress.exe&%Click me! :D

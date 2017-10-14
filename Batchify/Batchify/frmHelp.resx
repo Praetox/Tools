@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="txtHelp.Text" xml:space="preserve">
+    <value>
+You just opened the help section of Batchify.
+This document contains information on Batchify's basics, and should help get you started.
+
+NOTE: In the example script, you can see that I chose to create a backup to work from.
+I am completely sure that Batchify would never modify any files itself. I am, however,
+not sure whether the tools used in the example are flawless. Better safe than sorry! (^^,)
+
+Let's go over the elements on the main window.
+"Source folder" is where Batchify will look for files to include.
+"Destination path" is where Batchify will save the finished batch file.
+"Command(s)..." is what Batchify will do with the files.
+"Files to include" lets you filter what files should be manipulated.
+
+
+
+== Source folder
+=================================================================================
+
+You have two options to enter a source folder.
+1. Enter the entire path in the text field
+2. Press the "..." button to display a directory selector.
+
+
+
+== Destination path
+=================================================================================
+
+You also have two options on how to select a destination for the batch file.
+1. Enter the entire path in the text field (including \batchname.bat)
+2. Press the "..." button to display a "save file" dialog.
+
+
+
+== Command(s) to execute on files
+=================================================================================
+
+Here you can enter the batch commands to execute on each file.
+When you start Batchify, this field contains a complete script to convert all flac-files to mp3.
+
+In the following examples, the file "C:\foo\bar\foobar.txt" is used as the working file.
+
+        §1 is replaced with the file's directory path.                                              Example:   C:\foo\bar
+        §2a is replaced with the file's name without extension.                          Example:   foobar
+        §2b is replaced with the file's real name without extension (if you used the "safe name" function).
+        §3a is replaced with the file's extension with preceding decimal.         Example:   .txt
+        §3b is replaced with the file's extension without preceding decimal.  Example:   txt
+        §n1 is replaced with the number of the file currently active.                 Example:   4
+        §n2 is replaced with the total number of files to work with.                   Example:   29
+
+In the following examples, the file "C:\foobar\Foo - Bar.wav" is used as the working file.
+
+        §(,)§ is a split command, and is mostly useful when encoding mp3 files.
+        
+        To use the split function, three parameters are needed - what filename to use, what to split by, and which part to use.
+        If you used the "safe name" function, then 1 is the "safe name" (current filename) and 2 is the regular name.
+        If you did not use the "safe name" function, then 1 and 2 is the same thing.
+
+        If Foo is our artist, Bar is the song title, and they're split by " - " in the filename:
+        §(2, - ,1) is replaced with the artist
+        §(2, - ,2) is replaced with the title
+
+
+
+== Files to include should...
+=================================================================================
+
+This is where you decide which files to include.
+
+To add all files by a specific artist, you should:
+        Set the dropdown menu to "start with"
+        Enter the artist name in the textfield to the right
+
+To add all files containing a specific word, you should:
+        Set the dropdown menu to "contain"
+        Enter the specific word in the textfield to the right
+
+To add all files that are of a specific format, you should:
+        Set the dropdown menu to "end with"
+        Enter the file format in the textfield to the right
+
+
+
+I hope you understood how to use this tool. If you need help, feel free to contact me on my forum (linked on my website).</value>
+  </data>
+</root>

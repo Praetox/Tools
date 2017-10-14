@@ -1,0 +1,12 @@
+34.30.001020ff.ffffffff.10.Verdana.  Title
+34.46.001020ff.ffffffff.10.Verdana.  Artist
+34.62.001020ff.ffffffff.10.Verdana.  Album
+180.20.4000.  Synced?
+
+Format:
+posX . posY . colorMain . colorShadow . Size . Font   (title)
+posX . posY . colorMain . colorShadow . Size . Font   (artist)
+posX . posY . colorMain . colorShadow . Size . Font   (album)
+posX . posY . hideAfter   (sync / visibility timeout)
+
+All colors are of format RRGGBBAA (hexadecimal).

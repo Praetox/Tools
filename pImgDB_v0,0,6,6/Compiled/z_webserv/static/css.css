@@ -1,0 +1,44 @@
+body {
+	text-align: center;
+	font-family: Verdana, Arial, Trebuchet MS, sans-serif;
+	background: #cde; /*210/10/90*/
+	color: #234; /*210/50/33*/
+	margin: 20px 0px 8px 0px;
+	padding: 0px;
+}
+a {
+	text-decoration: none;
+}
+a.Banner {
+	display: block;
+	font-size: 48px;
+	color: #147; /*210/80/50*/
+	font-weight: bold;
+	margin: 6px;
+}
+p {
+	color: #234; /*210/50/33*/
+	font-style: italic;
+}
+div#Navbar {
+	width: 500px;
+	height: 40px;
+	font-size: 16px;
+}
+div#Navbar a {
+	color: #468; /*210/50/50*/
+}
+div#Footnote {
+	margin-top: 48px;
+	font-size: 8px;
+	color: #69c; /*210/50/80*/
+}
+div#Footnote a {
+	color: #69c; /*210/50/80*/
+}
+img {
+	margin: 6px;
+	padding: 1px;
+	background: #eee;
+	border: 1px solid #468; /*210/50/50*/
+}

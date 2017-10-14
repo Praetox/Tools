@@ -1,0 +1,44 @@
+::MIGS
+main 248,16,000000c0
+shad 249,17,ffffff80
+font r24,Verdana
+::DNCE
+main 240,09,000000c0
+shad 241,10,ffffff80
+font r9,Verdana
+::MODE
+main 240,48,000000c0
+shad 241,49,ffffff80
+font r9,Verdana
+::MARV
+main 44,07,ee8800ff
+shad 45,08,ffffff80
+font r9,Verdana
+::PERF
+main 44,21,cc8800ff
+shad 45,22,ffffff80
+font r9,Verdana
+::GRET
+main 44,35,229900ff
+shad 45,36,ffffff80
+font r9,Verdana
+::GOOD
+main 44,49,0066aaff
+shad 45,50,ffffff80
+font r9,Verdana
+::BOOO
+main 84,07,cc22ccff
+shad 85,08,ffffff80
+font r9,Verdana
+::MISS
+main 84,21,ff2200ff
+shad 85,22,ffffff80
+font r9,Verdana
+::OKAY
+main 84,35,aa9933ff
+shad 85,36,ffffff80
+font r9,Verdana
+::CMBO
+main 84,49,444444ff
+shad 85,50,ffffff80
+font r9,Verdana

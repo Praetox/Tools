@@ -1,0 +1,84 @@
+Organize images based on filename.
+
+A simple app that parses image filenames by the entered mask,
+thus extracting metadata in the form of tags. Currently it's
+limited to categorizing these tags. In the upcoming versions,
+the app will organize the images using the collected tags,
+finally embedding the tags into the image as emTags.
+
+The app will be posted on praetox.com when it's done. Until
+then, updates / status reports can be found on ptforums.net.
+Sorry for any gui issues, these are temporary.
+
+Compiled by anon@chibi on 2009/03/28, 00:25
+
+
+
+HOW TO USE THIS SHIT.
+
+1. Extract and start the application.
+2. If you have started organizing tags, click
+   "Resume sorting or..." and skip to step #9.
+3. Click the "..." button to select a directory with images.
+4. Click "Select this folder" to continue.
+5. Enter the name mask (see below for explanation)
+6. Fill in the character that splits each tag
+7. If any characters needs to be replaced in each tag, fill
+   in the character to replace and the character to replace
+   it with. abc in the first field and xyz in the second
+   replaces all a's with x, all b's with y and all... yeah.
+8. Click "Start collecting tags" and wait as it ZOOMs on.
+
+9. Click any tag in the "0 // Tags // Unsorted" list, then
+   use hotkeys or buttons to sort the tags. See below for
+   hotkeys list.
+A. Remember to click "Save tags/types" before you close!
+B. Exit SS by clicking "Cancel". You may continue later.
+
+
+
+HOTKEYS FUCK YEAR.
+
+  Enter - Tags/Unsorted
+  [F1]  - Tags/General
+  [F2]  - Tags/Source
+  [F3]  - Tags/Characters
+  [F4]  - Tags/Artists
+  [F5]  - Junk
+  [ESC] - Undo
+  [F9]  - Save
+
+
+
+ABOUT NAME MASKS.
+
+Start by copying a filename in here, then replace all junk
+data by {junk}. Next, replace metadata (tags) with {tags}
+indicators. You may use the following:
+  {tags} for unsorted/unorganized tags
+  {tagsGen} for tags/General
+  {tagsSrc} for tags/Source
+  {tagsChr} for tags/Characters
+  {tagsArt} for tags/Artists
+
+When using the {junk} indicator, make sure that there's a
+special combination of characters following it that does
+not occur where the junk data is. If the filename is:
+     Konachan.com - junk data tags tags tags
+then using a mask like this would probably botch it:
+     Konachan.com - {junk} {tags}
+...since the space separating {junk} and {tags} occurs
+between "junk" and "data" in the original filename. Thus,
+the word "data" would be read as a tag.
+
+The actual filename of konachan images is:
+     Konachan.com - 32759 - unsorted tags etc 279.jpg
+There's no way to remove the 279 at the end, but...
+     {tagsSrc} - {junk} - {tags}
+...will store Konachan.com as source, ignore the image
+number as junk, and store the rest as unsorted tags.
+
+Thus, be careful when you use the {junk} indicator, as it
+may confuse SS. Using it on single words with a special,
+rarely used character following should be alright.
+

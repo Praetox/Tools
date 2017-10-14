@@ -1,0 +1,18 @@
+Stepmania MIGS calculator
+
+SMSuite v1.0.0 (beta)
+StepMania MIGS calculator and stats display
+Compiled and released 2009/03/13 17:15
+
+IMPORTANT! If SMSuite flickers (happens on some computers), just delete
+alpha.png. This will make SMSuite fall back to opaque rendering, which
+basically means it will look less awesome.
+
+To adjust the configuration of SMSuite, please edit the config.txt file.
+...yeah, I haven't added this feature yet. It's locked at 10 fps.
+
+To customize the appearance of SMSuite (change data fields, colours etc),
+modify skin.txt and/or replace skin.png. Remember to keep skin.png at a
+reasonable size; too large skins will make it slow down your computer.
+
+Also, praetox.com for moar

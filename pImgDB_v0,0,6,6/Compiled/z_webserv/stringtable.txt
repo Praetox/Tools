@@ -1,0 +1,21 @@
+﻿This is the string table of the pImgDB webserver. Keep this sentence as is.
+
+STR:VISITOR_STATE_SESSION_OK   Welcome back, [[USER_NAME]]. You've been gone since:<br>[[GTIME_USED]].
+STR:VISITOR_STATE_LOGIN_OK     Welcome [[USER_NAME]]. Your user level is [[USER_LV]].
+STR:VISITOR_STATE_LOGIN_NOK    OH SNAP! Incorrect username or password.
+STR:VISITOR_STATE_LOGOUT       Uhm, who are you again? Damn amnesia...
+STR:VISITOR_STATE_SESSION_NL   Oh, we're still doing this stranger-thing, are we?
+STR:VISITOR_STATE_NO_SESSION   Hello there, stranger. How may I be of assistance?
+STR:UNKNOWN_REQUEST_ROOT       You shouldn't be seeing this message, you know.
+STR:USER_NOT_LOGGED_IN         If I were you, I'd log in first.
+STR:USER_LVL_TOO_LOW           Can't let you do that, guest.
+STR:FILE_NOT_FOUND_EX          404, loli not found.
+STR:IMPORT_DIRECT              Importing from direct upload...
+STR:IMPORT_OTHSERV             Importing from other webserver...
+STR:IMPORT_OK                  Importing succeeded!
+STR:IMPORT_NODB                No database was opened!<br>Importing failed.
+STR:IMPORT_EXISTED             Image already exists in database!
+STR:IMPORT_CORRUPTED           Oh noes, the image seems to be corrupted.
+STR:NO_FILE_SUBMITTED          You didn't submit a file. What's up with that?
+STR:BROWSE_MODE_SEARCH         Viewing search "[[SEARCH_PARAM]]"
+STR:BROWSE_MODE_ALL            Viewing all images

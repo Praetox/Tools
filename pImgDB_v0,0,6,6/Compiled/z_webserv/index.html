@@ -1,0 +1,39 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html><head>
+	<title>pImgDB v[[APPVER]] - Root</title>
+	<META NAME="Description" CONTENT="pImgDB webserver front-end">
+	<META NAME="Author" CONTENT="Praetox Technologies">
+	<LINK REL="stylesheet" TYPE="text/css" HREF="/static/css.css">
+</head>
+
+<body>
+	<center>
+	<a class=Banner href="/">pImgDB [[APPVER]]</a>
+	<div id=Navbar>
+		<a href="/info">Info</a> &nbsp; 
+		<a href="/search">Search</a> &nbsp; 
+		<a href="/browse">Browse</a> &nbsp; 
+		<a href="/import">Import</a> &nbsp; 
+		<a href="/stats">Stats</a> &nbsp; 
+		<a href="/logout">Logout</a>
+	</div><br>
+	
+	<p>[[VISITOR_STATE]]</p>
+	<!-- [[ LOGIN ]] -->
+	<form action="/login" method="POST" enctype="multipart/form-data">
+		<input type="text" name="user" value="guest">
+		<input type="password" name="pass">
+		<input type="submit" value="Log in">
+	</form>
+	<!-- [[ /LOGIN ]] -->
+	
+	<br><br><br>This is a pathetic web front-end for
+	<a href="http://praetox.com/site/software/pimgdb.html"><u>
+	the actual pImgDB</u></a>.<br>pImgDB is much more than this,
+	don't get the wrong idea.
+	
+	<div id=Footnote>Powered by <a href="http://praetox.com/">pImgDB</a><br>
+	ｷﾀ━━━━(ﾟ∀ﾟ)━━━━ｯ!!</div>
+	</center>
+</body>
+</html>

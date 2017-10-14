@@ -1,0 +1,5 @@
+This is the layout configuration of the pImgDB webserver. Keep this sentence as is.
+
+LO!CONFIG::Browse_ImageLink_Thumb_%n
+<a href="[[IMAGE_DURL]]"><img src="[[THUMB_DURL]]"></a>
+

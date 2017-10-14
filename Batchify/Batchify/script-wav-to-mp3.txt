@@ -1,0 +1,15 @@
+ECHO ==\
+ECHO ===) (§n1/§n2) §2b§3a
+ECHO ==/
+
+REM   Work from a copy (for safety purposes)
+copy "§1\§2a§3a" "§1\_b.wav"
+
+REM   Compress the .wav file to .mp3 using lame
+lame -V2 "§1\_b.wav"
+
+REM   Rename the file from .wav.mp3 to .mp3
+ren "§1\_b.wav.mp3" "§2a.mp3"
+
+REM   Delete the temporary files
+del "§1\_b.wav"

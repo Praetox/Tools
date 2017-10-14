@@ -1,0 +1,10 @@
+G:\SAUCE\PTSOURCE\Tools\unDupe\unDupe\bin\Debug\unDupe.exe.config
+G:\SAUCE\PTSOURCE\Tools\unDupe\unDupe\bin\Debug\unDupe.exe
+G:\SAUCE\PTSOURCE\Tools\unDupe\unDupe\bin\Debug\unDupe.pdb
+G:\SAUCE\PTSOURCE\Tools\unDupe\unDupe\obj\Debug\ResolveAssemblyReference.cache
+G:\SAUCE\PTSOURCE\Tools\unDupe\unDupe\obj\Debug\unDupe.frmMain.resources
+G:\SAUCE\PTSOURCE\Tools\unDupe\unDupe\obj\Debug\unDupe.Properties.Resources.resources
+G:\SAUCE\PTSOURCE\Tools\unDupe\unDupe\obj\Debug\GenerateResource.read.1.tlog
+G:\SAUCE\PTSOURCE\Tools\unDupe\unDupe\obj\Debug\GenerateResource.write.1.tlog
+G:\SAUCE\PTSOURCE\Tools\unDupe\unDupe\obj\Debug\unDupe.exe
+G:\SAUCE\PTSOURCE\Tools\unDupe\unDupe\obj\Debug\unDupe.pdb

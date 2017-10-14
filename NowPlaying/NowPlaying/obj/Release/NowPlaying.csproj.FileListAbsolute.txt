@@ -1,0 +1,14 @@
+F:\Visual Basic\SAUCE\PTSOURCE\Tools\NowPlaying\NowPlaying\bin\Release\NowPlaying.exe.config
+F:\Visual Basic\SAUCE\PTSOURCE\Tools\NowPlaying\NowPlaying\bin\Release\NowPlaying.exe
+F:\Visual Basic\SAUCE\PTSOURCE\Tools\NowPlaying\NowPlaying\bin\Release\NowPlaying.pdb
+F:\Visual Basic\SAUCE\PTSOURCE\Tools\NowPlaying\NowPlaying\obj\Release\ResolveAssemblyReference.cache
+F:\Visual Basic\SAUCE\PTSOURCE\Tools\NowPlaying\NowPlaying\obj\Release\NowPlaying.frmMain.resources
+F:\Visual Basic\SAUCE\PTSOURCE\Tools\NowPlaying\NowPlaying\obj\Release\NowPlaying.frmSelectAccount.resources
+F:\Visual Basic\SAUCE\PTSOURCE\Tools\NowPlaying\NowPlaying\obj\Release\NowPlaying.frmFindOffsets.resources
+F:\Visual Basic\SAUCE\PTSOURCE\Tools\NowPlaying\NowPlaying\obj\Release\NowPlaying.frmSelectOffsets.resources
+F:\Visual Basic\SAUCE\PTSOURCE\Tools\NowPlaying\NowPlaying\obj\Release\NowPlaying.frmSelectPlayer.resources
+F:\Visual Basic\SAUCE\PTSOURCE\Tools\NowPlaying\NowPlaying\obj\Release\NowPlaying.Properties.Resources.resources
+F:\Visual Basic\SAUCE\PTSOURCE\Tools\NowPlaying\NowPlaying\obj\Release\GenerateResource.read.1.tlog
+F:\Visual Basic\SAUCE\PTSOURCE\Tools\NowPlaying\NowPlaying\obj\Release\GenerateResource.write.1.tlog
+F:\Visual Basic\SAUCE\PTSOURCE\Tools\NowPlaying\NowPlaying\obj\Release\NowPlaying.exe
+F:\Visual Basic\SAUCE\PTSOURCE\Tools\NowPlaying\NowPlaying\obj\Release\NowPlaying.pdb

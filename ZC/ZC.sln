@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C# Express 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZC", "ZC\ZC.csproj", "{751A8D07-ED50-4B2C-B05F-415626BA6CF7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{751A8D07-ED50-4B2C-B05F-415626BA6CF7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{751A8D07-ED50-4B2C-B05F-415626BA6CF7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{751A8D07-ED50-4B2C-B05F-415626BA6CF7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{751A8D07-ED50-4B2C-B05F-415626BA6CF7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
